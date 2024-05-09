@@ -1,0 +1,62 @@
+CRITICAL - 2024-05-09 08:55:47 --> ErrorException: Undefined property: App\Controllers\Home::$input
+[Method: GET, Route: contact-us]
+in APPPATH\Controllers\Home.php on line 29.
+ 1 APPPATH\Controllers\Home.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Home::$input', 'D:\\xampp82\\htdocs\\vpmetal\\app\\Controllers\\Home.php', 29)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->contact_us()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-05-09 14:35:41 --> ErrorException: Undefined variable $subroutes
+[Method: GET, Route: contact-us]
+in APPPATH\Config\Routes.php on line 18.
+ 1 APPPATH\Config\Routes.php(18): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $subroutes', 'D:\\xampp82\\htdocs\\vpmetal\\app\\Config\\Routes.php', 18)
+ 2 SYSTEMPATH\Router\RouteCollection.php(800): CodeIgniter\Router\RouteCollection->{closure}(Object(CodeIgniter\Router\RouteCollection))
+ 3 APPPATH\Config\Routes.php(16): CodeIgniter\Router\RouteCollection->group('/contact-us', [...], Object(Closure))
+ 4 SYSTEMPATH\Router\RouteCollection.php(340): require('D:\\xampp82\\htdocs\\vpmetal\\app\\Config\\Routes.php')
+ 5 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 6 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-05-09 14:36:48 --> ErrorException: Undefined variable $subroutes
+[Method: GET, Route: contact-us]
+in APPPATH\Config\Routes.php on line 18.
+ 1 APPPATH\Config\Routes.php(18): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $subroutes', 'D:\\xampp82\\htdocs\\vpmetal\\app\\Config\\Routes.php', 18)
+ 2 SYSTEMPATH\Router\RouteCollection.php(800): CodeIgniter\Router\RouteCollection->{closure}(Object(CodeIgniter\Router\RouteCollection))
+ 3 APPPATH\Config\Routes.php(16): CodeIgniter\Router\RouteCollection->group('/contact-us', [...], Object(Closure))
+ 4 SYSTEMPATH\Router\RouteCollection.php(340): require('D:\\xampp82\\htdocs\\vpmetal\\app\\Config\\Routes.php')
+ 5 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 6 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-05-09 14:38:17 --> ErrorException: Undefined variable $subroutes
+[Method: GET, Route: contact-us]
+in APPPATH\Config\Routes.php on line 18.
+ 1 APPPATH\Config\Routes.php(18): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $subroutes', 'D:\\xampp82\\htdocs\\vpmetal\\app\\Config\\Routes.php', 18)
+ 2 SYSTEMPATH\Router\RouteCollection.php(800): CodeIgniter\Router\RouteCollection->{closure}(Object(CodeIgniter\Router\RouteCollection))
+ 3 APPPATH\Config\Routes.php(16): CodeIgniter\Router\RouteCollection->group('/contact-us', [...], Object(Closure))
+ 4 SYSTEMPATH\Router\RouteCollection.php(340): require('D:\\xampp82\\htdocs\\vpmetal\\app\\Config\\Routes.php')
+ 5 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 6 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-05-09 14:40:40 --> ErrorException: Undefined variable $subroutes
+[Method: GET, Route: contact-us]
+in APPPATH\Config\Routes.php on line 18.
+ 1 APPPATH\Config\Routes.php(18): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $subroutes', 'D:\\xampp82\\htdocs\\vpmetal\\app\\Config\\Routes.php', 18)
+ 2 SYSTEMPATH\Router\RouteCollection.php(800): CodeIgniter\Router\RouteCollection->{closure}(Object(CodeIgniter\Router\RouteCollection))
+ 3 APPPATH\Config\Routes.php(16): CodeIgniter\Router\RouteCollection->group('/contact-us', [...], Object(Closure))
+ 4 SYSTEMPATH\Router\RouteCollection.php(340): require('D:\\xampp82\\htdocs\\vpmetal\\app\\Config\\Routes.php')
+ 5 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 6 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))

@@ -1,0 +1,244 @@
+CRITICAL - 2024-05-07 12:44:26 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "about_us.php"
+[Method: GET, Route: v-p-metalworks]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about_us.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('about_us', [], true)
+ 3 APPPATH\Controllers\Home.php(13): view('about_us')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->about_us()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-05-07 12:45:12 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "about_us.php"
+[Method: GET, Route: v-p-metalworks]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about_us.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('about_us', [], true)
+ 3 APPPATH\Controllers\Home.php(13): view('about_us')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->about_us()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-05-07 12:45:15 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "about_us.php"
+[Method: GET, Route: v-p-metalworks]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about_us.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('about_us', [], true)
+ 3 APPPATH\Controllers\Home.php(13): view('about_us')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->about_us()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-05-07 12:45:23 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "about_us.php"
+[Method: GET, Route: v-p-metalworks]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about_us.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('about_us', [], true)
+ 3 APPPATH\Controllers\Home.php(13): view('about_us')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->about_us()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-05-07 12:46:44 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "about_us.php"
+[Method: GET, Route: v-p-metalworks]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about_us.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('about_us', [], true)
+ 3 APPPATH\Controllers\Home.php(13): view('about_us')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->about_us()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-05-07 12:46:46 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "about_us.php"
+[Method: GET, Route: v-p-metalworks]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about_us.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('about_us', [], true)
+ 3 APPPATH\Controllers\Home.php(13): view('about_us')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->about_us()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-05-07 12:47:33 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "about_us.php"
+[Method: GET, Route: v-p-metalworks]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about_us.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('about_us', [], true)
+ 3 APPPATH\Controllers\Home.php(13): view('about_us')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->about_us()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-05-07 12:48:13 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "about_us.php"
+[Method: GET, Route: v-p-metalworks]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about_us.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('about_us', [], true)
+ 3 APPPATH\Controllers\Home.php(13): view('about_us')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->about_us()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-05-07 12:48:55 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "about_us.php"
+[Method: GET, Route: v-p-metalworks]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about_us.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('about_us', [], true)
+ 3 APPPATH\Controllers\Home.php(13): view('about_us')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->about_us()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-05-07 12:49:00 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "about_us.php"
+[Method: GET, Route: v-p-metalworks]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about_us.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('about_us', [], true)
+ 3 APPPATH\Controllers\Home.php(13): view('about_us')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->about_us()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-05-07 12:49:49 --> ErrorException: include(../header.php): Failed to open stream: No such file or directory
+[Method: GET, Route: v-p-metalworks]
+in APPPATH\Views\pages\about_us.php on line 1.
+ 1 APPPATH\Views\pages\about_us.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(../header.php): Failed to open stream: No such file or directory', 'D:\\xampp82\\htdocs\\vpmetal\\app\\Views\\pages\\about_us.php', 1)
+ 2 APPPATH\Views\pages\about_us.php(1): include()
+ 3 SYSTEMPATH\View\View.php(234): include('D:\\xampp82\\htdocs\\vpmetal\\app\\Views\\pages\\about_us.php')
+ 4 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/about_us', [], true)
+ 6 APPPATH\Controllers\Home.php(13): view('pages/about_us')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->about_us()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-05-07 12:50:24 --> ErrorException: include(./../header.php): Failed to open stream: No such file or directory
+[Method: GET, Route: v-p-metalworks]
+in APPPATH\Views\pages\about_us.php on line 1.
+ 1 APPPATH\Views\pages\about_us.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(./../header.php): Failed to open stream: No such file or directory', 'D:\\xampp82\\htdocs\\vpmetal\\app\\Views\\pages\\about_us.php', 1)
+ 2 APPPATH\Views\pages\about_us.php(1): include()
+ 3 SYSTEMPATH\View\View.php(234): include('D:\\xampp82\\htdocs\\vpmetal\\app\\Views\\pages\\about_us.php')
+ 4 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/about_us', [], true)
+ 6 APPPATH\Controllers\Home.php(13): view('pages/about_us')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->about_us()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-05-07 12:50:46 --> ErrorException: include(header.php): Failed to open stream: No such file or directory
+[Method: GET, Route: v-p-metalworks]
+in APPPATH\Views\pages\about_us.php on line 1.
+ 1 APPPATH\Views\pages\about_us.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(header.php): Failed to open stream: No such file or directory', 'D:\\xampp82\\htdocs\\vpmetal\\app\\Views\\pages\\about_us.php', 1)
+ 2 APPPATH\Views\pages\about_us.php(1): include()
+ 3 SYSTEMPATH\View\View.php(234): include('D:\\xampp82\\htdocs\\vpmetal\\app\\Views\\pages\\about_us.php')
+ 4 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/about_us', [], true)
+ 6 APPPATH\Controllers\Home.php(13): view('pages/about_us')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->about_us()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-05-07 12:51:10 --> ErrorException: include(../header.php): Failed to open stream: No such file or directory
+[Method: GET, Route: v-p-metalworks]
+in APPPATH\Views\pages\about_us.php on line 1.
+ 1 APPPATH\Views\pages\about_us.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(../header.php): Failed to open stream: No such file or directory', 'D:\\xampp82\\htdocs\\vpmetal\\app\\Views\\pages\\about_us.php', 1)
+ 2 APPPATH\Views\pages\about_us.php(1): include()
+ 3 SYSTEMPATH\View\View.php(234): include('D:\\xampp82\\htdocs\\vpmetal\\app\\Views\\pages\\about_us.php')
+ 4 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/about_us', [], true)
+ 6 APPPATH\Controllers\Home.php(13): view('pages/about_us')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->about_us()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-05-07 12:52:48 --> ErrorException: include(D:\xampp82\htdocs\vpmetal\app\Views\pages./../header.php): Failed to open stream: Permission denied
+[Method: GET, Route: v-p-metalworks]
+in APPPATH\Views\pages\about_us.php on line 1.
+ 1 APPPATH\Views\pages\about_us.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\xampp82\\htdocs\\vpmetal\\app\\Views\\pages./../header.php): Failed to open stream: Permission denied', 'D:\\xampp82\\htdocs\\vpmetal\\app\\Views\\pages\\about_us.php', 1)
+ 2 APPPATH\Views\pages\about_us.php(1): include()
+ 3 SYSTEMPATH\View\View.php(234): include('D:\\xampp82\\htdocs\\vpmetal\\app\\Views\\pages\\about_us.php')
+ 4 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/about_us', [], true)
+ 6 APPPATH\Controllers\Home.php(13): view('pages/about_us')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->about_us()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-05-07 12:53:17 --> ErrorException: include(D:\xampp82\htdocs\vpmetal\app\Views\pages../header.php): Failed to open stream: No such file or directory
+[Method: GET, Route: v-p-metalworks]
+in APPPATH\Views\pages\about_us.php on line 1.
+ 1 APPPATH\Views\pages\about_us.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\xampp82\\htdocs\\vpmetal\\app\\Views\\pages../header.php): Failed to open stream: No such file or directory', 'D:\\xampp82\\htdocs\\vpmetal\\app\\Views\\pages\\about_us.php', 1)
+ 2 APPPATH\Views\pages\about_us.php(1): include()
+ 3 SYSTEMPATH\View\View.php(234): include('D:\\xampp82\\htdocs\\vpmetal\\app\\Views\\pages\\about_us.php')
+ 4 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/about_us', [], true)
+ 6 APPPATH\Controllers\Home.php(13): view('pages/about_us')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->about_us()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-05-07 12:53:24 --> ErrorException: include(footer.php): Failed to open stream: No such file or directory
+[Method: GET, Route: v-p-metalworks]
+in APPPATH\Views\pages\about_us.php on line 5.
+ 1 APPPATH\Views\pages\about_us.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(footer.php): Failed to open stream: No such file or directory', 'D:\\xampp82\\htdocs\\vpmetal\\app\\Views\\pages\\about_us.php', 5)
+ 2 APPPATH\Views\pages\about_us.php(5): include()
+ 3 SYSTEMPATH\View\View.php(234): include('D:\\xampp82\\htdocs\\vpmetal\\app\\Views\\pages\\about_us.php')
+ 4 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/about_us', [], true)
+ 6 APPPATH\Controllers\Home.php(13): view('pages/about_us')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->about_us()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-05-07 12:53:40 --> ErrorException: include(footer.php): Failed to open stream: No such file or directory
+[Method: GET, Route: v-p-metalworks]
+in APPPATH\Views\pages\about_us.php on line 6.
+ 1 APPPATH\Views\pages\about_us.php(6): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(footer.php): Failed to open stream: No such file or directory', 'D:\\xampp82\\htdocs\\vpmetal\\app\\Views\\pages\\about_us.php', 6)
+ 2 APPPATH\Views\pages\about_us.php(6): include()
+ 3 SYSTEMPATH\View\View.php(234): include('D:\\xampp82\\htdocs\\vpmetal\\app\\Views\\pages\\about_us.php')
+ 4 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/about_us', [], true)
+ 6 APPPATH\Controllers\Home.php(13): view('pages/about_us')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->about_us()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-05-07 16:32:24 --> ErrorException: Cannot redeclare App\Controllers\Home::what_we_do()
+[Method: GET, Route: v-p-metalworks]
+in APPPATH\Controllers\Home.php on line 19.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
