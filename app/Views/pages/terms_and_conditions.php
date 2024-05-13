@@ -19,7 +19,7 @@
 								<div class="fusion-title-sc-wrapper" style="">
 									<style type="text/css"></style>
 									<div class="fusion-title title fusion-title-1 fusion-sep-none fusion-title-center fusion-title-text fusion-title-size-two" style="font-size:60px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;">
-										<h2 class="title-heading-center fusion-responsive-typography-calculated" style="margin:0;font-size:1em;color:#ffffff;--fontSize:60;line-height:1.33;"><strong>SERVICES</strong></h2>
+										<h2 class="title-heading-center fusion-responsive-typography-calculated" style="margin:0;font-size:1em;color:#ffffff;--fontSize:60;line-height:1.33;"><strong>Terms and Conditions</strong></h2>
 									</div>
 								</div>
 							</div>
@@ -42,38 +42,36 @@
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-1 fusion-flex-container nonhundred-percent-fullwidth non-hundred-percent-height-scrolling" style="background-color: #ffffff;background-position: left top;background-repeat: no-repeat;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;">
 						<div class="fusion-builder-row fusion-row fusion-flex-align-items-flex-start" style="max-width:1216.8px;margin-left: calc(-4% / 2 );margin-right: calc(-4% / 2 );">
 							<div class="">
-							<h3>Bespoke Metal Services </h3>
-
-							<p>Experience the epitome of craftsmanship with V P Metal Works' bespoke metal services.</p>
-
-							<p>Our bespoke metal services are tailored to discerning clients who demand nothing less than perfection. Whether you're an architect, designer, or individual homeowner with a unique vision, we specialize in bringing your ideas to life with precision and creativity.</p>
-
-							<p>What sets our bespoke metal services apart?</p>
+							<p>By accessing or using the V P Metal Works website and services, you agree to comply with and be bound by the following terms and conditions:</p>
 							<ol >
 								<li>
-									<h4><strong>Customization</strong></h4>
-									<p>No project is too complex or unconventional for our team. We thrive on challenges and excel at turning your concepts into tangible masterpieces. From one-of-a-kind sculptures to personalized architectural features, we work closely with you to ensure every detail exceeds your expectations.</p>
+									<h4><strong>Content</strong></h4>
+									<p>All content on the V P Metal Works website, including text, images, logos, and graphics, is the property of V P Metal Works and protected by copyright laws. You may not reproduce, distribute, or modify any content without our prior written consent.</p>
 								</li>
 								<li>
-									<h4><strong>Attention to Detail</strong></h4>
-									<p>At V P Metal Works, we understand that it's the little things that make a big difference. Our meticulous attention to detail ensures that every curve, angle, and finish is executed with precision, resulting in a finished product that is both aesthetically pleasing and structurally sound.</p>
+									<h4><strong>Use of Services</strong></h4>
+									<p>You agree to use the V P Metal Works website and services for lawful purposes only and in compliance with all applicable laws and regulations.</p>
 								</li>
 								<li>
-									<h4><strong>Quality Craftsmanship</strong></h4>
-									<p>With decades of experience in the metalworking industry, our craftsmen possess the skills and expertise to handle even the most intricate projects. From traditional blacksmithing techniques to modern fabrication methods, we employ the highest standards of craftsmanship to deliver exceptional results every time.</p>
+									<h4><strong>Accuracy of Information</strong></h4>
+									<p>While we strive to provide accurate and up-to-date information, we cannot guarantee the completeness or accuracy of all content on our website. We reserve the right to correct any errors, inaccuracies, or omissions at any time without prior notice.</p>
 								</li>
 								<li>
-									<h4><strong>Collaborative Approach</strong></h4>
-									<p>We believe in the power of collaboration and strive to foster open communication throughout the design and fabrication process. Your input is invaluable to us, and we welcome your ideas, feedback, and suggestions every step of the way.</p>
+									<h4><strong>Links to Third-Party Websites</strong></h4>
+									<p>The V P Metal Works website may contain links to third-party websites for your convenience. We are not responsible for the content or privacy practices of these websites. Your use of third-party websites is at your own risk.</p>
 								</li>
 								<li>
-									<h4><strong>Uncompromising Excellence</strong></h4>
-									<p>At V P Metal Works, we are committed to excellence in everything we do. From the selection of materials to the final inspection, we uphold the highest standards of quality, ensuring that your bespoke metal creation is a true masterpiece that stands the test of time.</p>
+									<h4><strong>Limitation of Liability</strong></h4>
+									<p>V P Metal Works and its affiliates shall not be liable for any direct, indirect, incidental, consequential, or punitive damages arising out of your use of our website or services.</p>
 								</li>
 								
 							</ol>
 
-							<p>Experience the unparalleled craftsmanship of V P Metal Works' bespoke metal services. Contact us today to discuss your project and let us turn your vision into reality with bespoke metal creations that inspire awe and admiration.</p>
+							<p>By using the V P Metal Works website and services, you acknowledge that you have read, understood, and agreed to these terms and conditions. If you do not agree with any part of these terms, please do not use our website or services.</p>
+							
+
+							
+
 							
 							
 

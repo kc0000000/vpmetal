@@ -78,13 +78,13 @@
                         <nav id="fusion-vertical-menu-widget-avada-vertical-menu-widget-3-nav" class="fusion-vertical-menu-widget fusion-menu click left no-border" aria-label="Secondary Navigation: Useful links">
                             <ul id="menu-useful-links" class="menu">
                                 <li id="menu-item-2807" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-5 current_page_item menu-item-2807"><a href="<?=base_url() ?>" aria-current="page"><span class="link-text"> Home</span><span class="arrow"></span></a></li>
-                                <li id="menu-item-3687" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3687"><a href="get-a-quote"><span class="link-text"> Contacts</span><span class="arrow"></span></a></li>
-                                <li id="menu-item-3835" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3835"><a href="work-with-us"><span class="link-text"> Work with us</span><span class="arrow"></span></a></li>
-                                <li id="menu-item-2809" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2809"><a href="metalwork-measurements-guide"><span class="link-text"> How To Measure</span><span class="arrow"></span></a></li>
-                                <li id="menu-item-2810" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2810"><a href="big-ferro-installation"><span class="link-text"> Installation</span><span class="arrow"></span></a></li>
+                                <li id="menu-item-3687" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3687"><a href="contact-us"><span class="link-text"> Contacts</span><span class="arrow"></span></a></li>
+                                <!-- <li id="menu-item-3835" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3835"><a href="work-with-us"><span class="link-text"> Work with us</span><span class="arrow"></span></a></li> -->
+                                <!-- <li id="menu-item-2809" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2809"><a href="metalwork-measurements-guide"><span class="link-text"> How To Measure</span><span class="arrow"></span></a></li> -->
+                                <!-- <li id="menu-item-2810" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2810"><a href="big-ferro-installation"><span class="link-text"> Installation</span><span class="arrow"></span></a></li> -->
                                 <li id="menu-item-2812" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2812"><a href="terms-and-conditions"><span class="link-text"> Terms and Conditions</span><span class="arrow"></span></a></li>
                                 <li id="menu-item-2811" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2811"><a href="privacy-policy"><span class="link-text"> Privacy Policy</span><span class="arrow"></span></a></li>
-                                <li id="menu-item-2808" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2808"><a href="delivery-services"><span class="link-text"> Delivery</span><span class="arrow"></span></a></li>
+                                <!-- <li id="menu-item-2808" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2808"><a href="delivery-services"><span class="link-text"> Delivery</span><span class="arrow"></span></a></li> -->
                             </ul>
                         </nav>
                         <div style="clear:both;"></div>
@@ -280,6 +280,7 @@ var wpcf7 = {"api":{"root":"https:\/\/bigferro.co.uk\/wp-json\/","namespace":"co
         <script type="text/javascript" src="<?php echo base_url('asset'); ?>/wp-content/plugins/instagram-feed/js/sbi-scripts.min9b30.js?ver=6.3.1" id="sbi_scripts-js"></script>
         <!-- <script type="text/javascript" src="<?php echo base_url('asset'); ?>/wp-content/uploads/fusion-scripts/5fc828ba83af559e1cc4ed643a93757d.min7e2e.js?ver=3.8.1" id="fusion-scripts-js"></script> -->
         <script type="text/javascript" src="<?php echo base_url('asset'); ?>/wp-content/uploads/fusion-scripts/6fdb9135090b5c2d2f765331f3071f97.min7e2e.js?ver=3.8.1" id="fusion-scripts-js"></script>
+        <script type="text/javascript" src="<?php echo base_url('asset'); ?>/wp-content/uploads/fusion-scripts/f5eb09432f30763f4f67c8572887f224.min.js?ver=3.8.1" id="fusion-scripts-js"></script>
 
         <!-- This site is optimized with Phil Singleton's WP SEO Structured Data Plugin v2.7.10 - https://kcseopro.com/wordpress-seo-structured-data-schema-plugin/ -->
         <script type="application/ld+json">

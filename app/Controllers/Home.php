@@ -32,6 +32,14 @@ class Home extends BaseController
     {
         return view('pages/services');
     }
+    public function terms_and_conditions(): string
+    {
+        return view('pages/terms_and_conditions');
+    }
+    public function privacy_policy(): string
+    {
+        return view('pages/privacy_policy');
+    }
     public function contact_us($submit = false): string
     {
         if(!$submit){

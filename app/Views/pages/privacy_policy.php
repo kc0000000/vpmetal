@@ -19,7 +19,7 @@
 								<div class="fusion-title-sc-wrapper" style="">
 									<style type="text/css"></style>
 									<div class="fusion-title title fusion-title-1 fusion-sep-none fusion-title-center fusion-title-text fusion-title-size-two" style="font-size:60px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;">
-										<h2 class="title-heading-center fusion-responsive-typography-calculated" style="margin:0;font-size:1em;color:#ffffff;--fontSize:60;line-height:1.33;"><strong>SERVICES</strong></h2>
+										<h2 class="title-heading-center fusion-responsive-typography-calculated" style="margin:0;font-size:1em;color:#ffffff;--fontSize:60;line-height:1.33;"><strong>Privacy Policy</strong></h2>
 									</div>
 								</div>
 							</div>
@@ -42,39 +42,46 @@
 					<div class="fusion-fullwidth fullwidth-box fusion-builder-row-1 fusion-flex-container nonhundred-percent-fullwidth non-hundred-percent-height-scrolling" style="background-color: #ffffff;background-position: left top;background-repeat: no-repeat;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;">
 						<div class="fusion-builder-row fusion-row fusion-flex-align-items-flex-start" style="max-width:1216.8px;margin-left: calc(-4% / 2 );margin-right: calc(-4% / 2 );">
 							<div class="">
-							<h3>Bespoke Metal Services </h3>
-
-							<p>Experience the epitome of craftsmanship with V P Metal Works' bespoke metal services.</p>
-
-							<p>Our bespoke metal services are tailored to discerning clients who demand nothing less than perfection. Whether you're an architect, designer, or individual homeowner with a unique vision, we specialize in bringing your ideas to life with precision and creativity.</p>
-
-							<p>What sets our bespoke metal services apart?</p>
-							<ol >
-								<li>
-									<h4><strong>Customization</strong></h4>
-									<p>No project is too complex or unconventional for our team. We thrive on challenges and excel at turning your concepts into tangible masterpieces. From one-of-a-kind sculptures to personalized architectural features, we work closely with you to ensure every detail exceeds your expectations.</p>
-								</li>
-								<li>
-									<h4><strong>Attention to Detail</strong></h4>
-									<p>At V P Metal Works, we understand that it's the little things that make a big difference. Our meticulous attention to detail ensures that every curve, angle, and finish is executed with precision, resulting in a finished product that is both aesthetically pleasing and structurally sound.</p>
-								</li>
-								<li>
-									<h4><strong>Quality Craftsmanship</strong></h4>
-									<p>With decades of experience in the metalworking industry, our craftsmen possess the skills and expertise to handle even the most intricate projects. From traditional blacksmithing techniques to modern fabrication methods, we employ the highest standards of craftsmanship to deliver exceptional results every time.</p>
-								</li>
-								<li>
-									<h4><strong>Collaborative Approach</strong></h4>
-									<p>We believe in the power of collaboration and strive to foster open communication throughout the design and fabrication process. Your input is invaluable to us, and we welcome your ideas, feedback, and suggestions every step of the way.</p>
-								</li>
-								<li>
-									<h4><strong>Uncompromising Excellence</strong></h4>
-									<p>At V P Metal Works, we are committed to excellence in everything we do. From the selection of materials to the final inspection, we uphold the highest standards of quality, ensuring that your bespoke metal creation is a true masterpiece that stands the test of time.</p>
-								</li>
-								
-							</ol>
-
-							<p>Experience the unparalleled craftsmanship of V P Metal Works' bespoke metal services. Contact us today to discuss your project and let us turn your vision into reality with bespoke metal creations that inspire awe and admiration.</p>
 							
+							<p>At V P Metal Works, we are committed to protecting your privacy and safeguarding the personal information you provide to us. This Privacy Policy outlines how we collect, use, and disclose your information when you visit our website or engage with our services.</p>
+
+							<h2>Information We Collect:</h2>
+							<ul>
+							<li><strong>Personal Information:</strong> When you contact us, request a quote, or sign up for our newsletter, we may collect personal information such as your name, email address, phone number, and address.</li>
+							<li><strong>Usage Information:</strong> We may collect information about your interactions with our website, including your IP address, browser type, pages visited, and time spent on our site.</li>
+							<li><strong>Cookies:</strong> We use cookies and similar tracking technologies to enhance your browsing experience and analyze website traffic.</li>
+							</ul>
+
+							<h2>How We Use Your Information:</h2>
+							<ul>
+							<li><strong>Provide Services:</strong> We use your personal information to fulfill your requests, provide quotes, and deliver our services to you.</li>
+							<li><strong>Communication:</strong> We may use your contact information to communicate with you about your inquiries, orders, or updates to our services.</li>
+							<li><strong>Marketing:</strong> With your consent, we may send you promotional emails about our products, services, and special offers.</li>
+							<li><strong>Improve Our Services:</strong> We analyze usage data to improve our website, products, and services to better serve our customers.</li>
+							</ul>
+
+							<h2>Information Sharing:</h2>
+							<ul>
+							<li>We do not sell, trade, or rent your personal information to third parties.</li>
+							<li>We may share your information with trusted service providers who assist us in operating our website, conducting business, or servicing you.</li>
+							<li>We may disclose your information when required by law or to protect our rights, property, or safety.</li>
+							</ul>
+
+							<h2>Security:</h2>
+							<ul>
+							<li>We implement industry-standard security measures to protect your personal information from unauthorized access, disclosure, or alteration.</li>
+							<li>Despite our efforts, no method of transmission over the internet or electronic storage is 100% secure. Therefore, we cannot guarantee absolute security.</li>
+							</ul>
+
+							<h2>Your Choices:</h2>
+							<ul>
+							<li>You have the right to access, update, or delete your personal information at any time by contacting us.</li>
+							<li>You may opt-out of receiving promotional emails from us by following the instructions in the email or contacting us directly.</li>
+							</ul>
+
+							<h2>Changes to This Policy:</h2>
+							<p>We may update this Privacy Policy from time to time. Any changes will be posted on this page, and the date of the last update will be indicated at the top of the policy.</p>
+
 							
 
 
