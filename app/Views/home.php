@@ -1,5 +1,5 @@
 <?php include('header.php') ?>
-
+<!-- 
             <div id="sliders-container" class="fusion-slider-visibility">
                 <div id="fusion-slider-52" data-id="52" class="fusion-slider-container fusion-slider-5" style="height:500px;max-width:100%;">
                     <style type="text/css">
@@ -2066,10 +2066,10 @@
                                                 </div>
                                             </div> <span class="ti-stars"><span class="ti-star f"></span><span class="ti-star f"></span><span class="ti-star f"></span><span class="ti-star f"></span><span class="ti-star f"></span></span>
                                             <div class="ti-review-content">
-                                                <!-- R-CONTENT -->Absolutely delighted. It as much appreciated that you could arrange for the installation to be completed a day early. Riccardo and his colleague were hardworking,friendly and aproachable,they answered all
+                                                Absolutely delighted. It as much appreciated that you could arrange for the installation to be completed a day early. Riccardo and his colleague were hardworking,friendly and aproachable,they answered all
                                                 my questions,and I was most impressed by the logical order in which they carried out the task,the quality of the tools they were using and the level of skill deployed. The resultant handrails are exactly
                                                 what we had in mind, suit the house well and look great. Many thanks. Best wishes for Cristmas and the New Year, Peter
-                                                <!-- R-CONTENT -->
+                                                
                                             </div> <span class="ti-read-more" data-container=".ti-review-content" data-collapse-text="Hide" data-open-text="Read more"></span> </div>
                                     </div>
                                     <div data-empty="0" class="ti-review-item source-Google">
@@ -2083,9 +2083,9 @@
                                                 </div>
                                             </div> <span class="ti-stars"><span class="ti-star f"></span><span class="ti-star f"></span><span class="ti-star f"></span><span class="ti-star f"></span><span class="ti-star f"></span></span>
                                             <div class="ti-review-content">
-                                                <!-- R-CONTENT -->These guys did a fantastic job. The railings are very high quality and look superb. Francesco was helpful and friendly throughout, as were the installation team. Reasonable prices and quick turnaround without
+                                                These guys did a fantastic job. The railings are very high quality and look superb. Francesco was helpful and friendly throughout, as were the installation team. Reasonable prices and quick turnaround without
                                                 compromising the quality. Highly recommended!
-                                                <!-- R-CONTENT -->
+                                                
                                             </div> <span class="ti-read-more" data-container=".ti-review-content" data-collapse-text="Hide" data-open-text="Read more"></span> </div>
                                     </div>
                                     <div data-empty="0" class="ti-review-item source-Google">
@@ -2099,9 +2099,9 @@
                                                 </div>
                                             </div> <span class="ti-stars"><span class="ti-star f"></span><span class="ti-star f"></span><span class="ti-star f"></span><span class="ti-star f"></span><span class="ti-star f"></span></span>
                                             <div class="ti-review-content">
-                                                <!-- R-CONTENT -->Really recommend V P Metal. The team are helpful, professional & a pleasure to deal with. The handrail V P Metal created & installed is exactly what we asked for, & has already proven to be very helpful.
+                                                Really recommend V P Metal. The team are helpful, professional & a pleasure to deal with. The handrail V P Metal created & installed is exactly what we asked for, & has already proven to be very helpful.
                                                 THANK YOU!
-                                                <!-- R-CONTENT -->
+                                                
                                             </div> <span class="ti-read-more" data-container=".ti-review-content" data-collapse-text="Hide" data-open-text="Read more"></span> </div>
                                     </div>
                                     <div data-empty="0" class="ti-review-item source-Google">
@@ -2115,8 +2115,8 @@
                                                 </div>
                                             </div> <span class="ti-stars"><span class="ti-star f"></span><span class="ti-star f"></span><span class="ti-star f"></span><span class="ti-star f"></span><span class="ti-star f"></span></span>
                                             <div class="ti-review-content">
-                                                <!-- R-CONTENT -->Amazing experience, thank you for my gate, amazing work!
-                                                <!-- R-CONTENT -->
+                                                Amazing experience, thank you for my gate, amazing work!
+                                                
                                             </div> <span class="ti-read-more" data-container=".ti-review-content" data-collapse-text="Hide" data-open-text="Read more"></span> </div>
                                     </div>
                                     <div data-empty="0" class="ti-review-item source-Google">
@@ -2130,9 +2130,9 @@
                                                 </div>
                                             </div> <span class="ti-stars"><span class="ti-star f"></span><span class="ti-star f"></span><span class="ti-star f"></span><span class="ti-star f"></span><span class="ti-star f"></span></span>
                                             <div class="ti-review-content">
-                                                <!-- R-CONTENT -->V P Metal did an excellent job in designing, removing the old balcony and installing a new garden balcony with stairs… which I’thrilled with. They were very helpful through the whole process in giving advice
+                                                V P Metal did an excellent job in designing, removing the old balcony and installing a new garden balcony with stairs… which I’thrilled with. They were very helpful through the whole process in giving advice
                                                 and choice and very reasonably priced. I am very grateful to the whole team for their professionalism and skill. I would highly recommend V P Metal to anyone.
-                                                <!-- R-CONTENT -->
+                                                
                                             </div> <span class="ti-read-more" data-container=".ti-review-content" data-collapse-text="Hide" data-open-text="Read more"></span> </div>
                                     </div>
                                     <div data-empty="0" class="ti-review-item source-Google">
@@ -2146,11 +2146,11 @@
                                                 </div>
                                             </div> <span class="ti-stars"><span class="ti-star f"></span><span class="ti-star f"></span><span class="ti-star f"></span><span class="ti-star f"></span><span class="ti-star f"></span></span>
                                             <div class="ti-review-content">
-                                                <!-- R-CONTENT -->I can't begin to recommend V P Metal highly enough! From the first moment I contacted this incredible company, they provided a level of customer service that was truly above and beyond - such a breath of
+                                                I can't begin to recommend V P Metal highly enough! From the first moment I contacted this incredible company, they provided a level of customer service that was truly above and beyond - such a breath of
                                                 fresh air! Francesco called me straight away and within hours of my initial query, Riccardo was visiting us to discuss all the options for a new bespoke gate. Once we had agreed on the design, Francesco
                                                 stayed in contact to let us know how long the process would take and to arrange delivery and fitting. They are very passionate about what they do and that is clear in the beautiful result - we absolutely
                                                 love our new gate! Thank you again Francesco, Riccardo and team.
-                                                <!-- R-CONTENT -->
+                                                
                                             </div> <span class="ti-read-more" data-container=".ti-review-content" data-collapse-text="Hide" data-open-text="Read more"></span> </div>
                                     </div>
                                     <div data-empty="0" class="ti-review-item source-Google">
@@ -2164,9 +2164,9 @@
                                                 </div>
                                             </div> <span class="ti-stars"><span class="ti-star f"></span><span class="ti-star f"></span><span class="ti-star f"></span><span class="ti-star f"></span><span class="ti-star f"></span></span>
                                             <div class="ti-review-content">
-                                                <!-- R-CONTENT -->Our experience was positive since the first contact with Divya, by understanding our needs and preparing a proposal based on what we were looking for. The technical assistance and the work execution went
+                                                Our experience was positive since the first contact with Divya, by understanding our needs and preparing a proposal based on what we were looking for. The technical assistance and the work execution went
                                                 beyond our expectations. We are so glad to be found, V P Metal.
-                                                <!-- R-CONTENT -->
+                                                
                                             </div> <span class="ti-read-more" data-container=".ti-review-content" data-collapse-text="Hide" data-open-text="Read more"></span> </div>
                                     </div>
                                     <div data-empty="0" class="ti-review-item source-Google">
@@ -2180,8 +2180,8 @@
                                                 </div>
                                             </div> <span class="ti-stars"><span class="ti-star f"></span><span class="ti-star f"></span><span class="ti-star f"></span><span class="ti-star f"></span><span class="ti-star f"></span></span>
                                             <div class="ti-review-content">
-                                                <!-- R-CONTENT -->V P Metal made some lovely fencing and a gate to my own design, they communicated well throughout and advised on technicalities. Very pleased with the result.
-                                                <!-- R-CONTENT -->
+                                                V P Metal made some lovely fencing and a gate to my own design, they communicated well throughout and advised on technicalities. Very pleased with the result.
+                                                
                                             </div> <span class="ti-read-more" data-container=".ti-review-content" data-collapse-text="Hide" data-open-text="Read more"></span> </div>
                                     </div>
                                     <div data-empty="0" class="ti-review-item source-Google">
@@ -2195,8 +2195,8 @@
                                                 </div>
                                             </div> <span class="ti-stars"><span class="ti-star f"></span><span class="ti-star f"></span><span class="ti-star f"></span><span class="ti-star f"></span><span class="ti-star f"></span></span>
                                             <div class="ti-review-content">
-                                                <!-- R-CONTENT -->Impeccable service
-                                                <!-- R-CONTENT -->
+                                                Impeccable service
+                                                
                                             </div> <span class="ti-read-more" data-container=".ti-review-content" data-collapse-text="Hide" data-open-text="Read more"></span> </div>
                                     </div>
                                     <div data-empty="0" class="ti-review-item source-Google">
@@ -2210,8 +2210,8 @@
                                                 </div>
                                             </div> <span class="ti-stars"><span class="ti-star f"></span><span class="ti-star f"></span><span class="ti-star f"></span><span class="ti-star f"></span><span class="ti-star f"></span></span>
                                             <div class="ti-review-content">
-                                                <!-- R-CONTENT -->Great product, quick and efficient installation, and very pleasant friendly people to deal with. Very happy with my new front railings and gate.
-                                                <!-- R-CONTENT -->
+                                                Great product, quick and efficient installation, and very pleasant friendly people to deal with. Very happy with my new front railings and gate.
+                                                
                                             </div> <span class="ti-read-more" data-container=".ti-review-content" data-collapse-text="Hide" data-open-text="Read more"></span> </div>
                                     </div>
                                 </div>
@@ -2549,10 +2549,7 @@
 
                             <div id="sbi_load">
 
-                                <!-- <a class="sbi_load_btn" href="javascript:void(0);" style="background: rgb(72,72,81);color: rgb(255,255,255);">
-			<span class="sbi_btn_text">Load More...</span>
-			<span class="sbi_loader sbi_hidden" style="background-color: rgb(255, 255, 255);" aria-hidden="true"></span>
-		</a> -->
+                               
 
                                 <span class="sbi_follow_btn sbi_custom">
         <a href="https://www.instagram.com/vpmetalworks/" style="background: rgb(0,0,0);color: rgb(255,255,255);" target="_blank" rel="nofollow noopener">
@@ -2808,10 +2805,711 @@
     </section>
 
     </div>
-    <!-- fusion-row -->
     </main>
-    <!-- #main -->
+ -->
 
 
+<div class="fw-page-builder-content">
+    <section class="intro_section page_slider ">
+        <div class="flexslider" data-dots="true" data-nav="false" data-speed="5000">
+            <ul class="slides">
+                <li class="cover-image ds text-center flex-active-slide" style="background-image: url(&quot;<?php echo base_url('asset'); ?>/img/vicky_bna__d40da5c7d98f4041b8e42e15a9703881.jpg&quot;); width: 100%; float: left; margin-right: -100%; position: relative; opacity: 1; display: block; z-index: 2;">
+                    <img src="<?php echo base_url('asset'); ?>/img/vicky_bna__d40da5c7d98f4041b8e42e15a9703881.jpg" alt="" draggable="false">
+                    <span class="flexslider-overlay"></span>
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-12 col-sm-12">
+                                <div class="intro_layers_wrapper ">
+                                    <div class="intro_layers">
+                                        <div class="intro-layer intro_featured_word animated fadeInDown" data-animation="fadeInDown" style="visibility: hidden;">
+                                            <h3 class="   ">
+                                            Expert Quality Creations
+                                            </h3>
+                                            <h2 class="intro_shadow_word">
+                                                V P Metal Works </h2>
+                                        </div>
+                                        <div class="intro-layer intro_after_featured_word animated fadeInDown" data-animation="fadeInDown" style="visibility: hidden;">
+                                            <p class="big   ">
+                                                We Build <mark>The Best.</mark> </p>
+                                        </div>
+                                        <div class="intro_layer scroll-link intro-arrow animate animated fadeInDown" data-animation="fadeInDown" style="visibility: hidden;">
+                                            <div class="animate animated floating" data-animation="floating">
+                                                <a href="#steps">
+                                                    <i class="ico ico-arrow-down fs-30 color-main"></i>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div> <!-- eof .intro_layers -->
+                                </div> <!-- eof .intro_layers_wrapper -->
+                            </div> <!-- eof .col-* -->
+                        </div><!-- eof .row -->
+                    </div><!-- eof .container -->
+                </li>
+            </ul>
+            <ol class="flex-control-nav flex-control-paging"></ol>
+        </div> <!-- eof flexslider -->
+    </section> <!-- eof intro_section -->
+
+    <section class="overflow-visible  ls     overflow-m-visible   s-pt-0 s-pb-0" id="section-520efa8">
+        <h6 class="d-none">section-520efa8</h6>
+        <div class="container">
+            <div class="row">
+
+
+                <div class="col-xs-12 col-12">
+
+                    <div class="fw-divider-space " style="margin-top: -120px;"></div>
+
+                    <div class="owl-carousel card-carousel" data-items="3" data-loop="true" data-nav="false" data-autoplay="true" data-responsive-lg="3" data-responsive-md="2" data-responsive-sm="2" data-responsive-xs="1" data-margin="50">
+                        <div class="card text-center  ">
+                            <div class="item-media">
+                                <img src="<?php echo base_url('asset'); ?>/img/vicky_bna__d40da5c7d98f4041b8e42e15a9703881-services.jpg" alt="&lt;mark&gt;Our&lt;/mark&gt; Services">
+                                <div class="media-links">
+                                    <a href="#" class="abs-link"></a>
+                                </div>
+                            </div>
+                            <div class="card-body box-shadow ls">
+                                <a href="#">
+                                    <h4 class="card-title fs-30">
+                                        <mark>Mobile</mark> Welding
+                                    </h4>
+                                </a>
+                                <p class="card-text fs-20">On-site welding excellence</p>
+                            </div>
+                        </div>
+                        <div class="card text-center  ">
+                            <div class="item-media">
+                                <img src="<?php echo base_url('asset'); ?>/img/vicky_bna__cd165d41de134bb19cf98be6445ea4a9.jpg" alt="&lt;mark&gt;Our&lt;/mark&gt; Expertise">
+                                <div class="media-links">
+                                    <a href="#" class="abs-link"></a>
+                                </div>
+                            </div>
+                            <div class="card-body box-shadow ls">
+                                <a href="#">
+                                    <h4 class="card-title fs-30">
+                                        <mark>Architectural</mark>  Metalwork
+                                    </h4>
+                                </a>
+                                <p class="card-text fs-20">Crafting stunning metal designs</p>
+                            </div>
+                        </div>
+                        <div class="card text-center  ">
+                            <div class="item-media">
+                                <img src="<?php echo base_url('asset'); ?>/img/vicky_bna__d105411129764da5a1988a5ea5e0561f.jpg" alt="&lt;mark&gt;Our&lt;/mark&gt; Workshop">
+                                <div class="media-links">
+                                    <a href="#" class="abs-link"></a>
+                                </div>
+                            </div>
+                            <div class="card-body box-shadow ls">
+                                <a href="#">
+                                    <h4 class="card-title fs-30">
+                                        <mark>Staircases,</mark>  Gates & Railings
+                                    </h4>
+                                </a>
+                                <p class="card-text fs-20">Elegant and secure metalwork</p>
+                            </div>
+                        </div>
+                        <div class="card text-center  ">
+                            <div class="item-media">
+                                <img src="<?php echo base_url('asset'); ?>/img/298845634_183518884144682_8592815065283740820_n.jpg" alt="&lt;mark&gt;Our&lt;/mark&gt; Workshop">
+                                <div class="media-links">
+                                    <a href="#" class="abs-link"></a>
+                                </div>
+                            </div>
+                            <div class="card-body box-shadow ls">
+                                <a href="#">
+                                    <h4 class="card-title fs-30">
+                                        <mark>Stainless Steel Sheet</mark>   Metal Fabrication
+                                    </h4>
+                                </a>
+                                <p class="card-text fs-20">Durable and precise solutions</p>
+                            </div>
+                        </div>
+                        <div class="card text-center  ">
+                            <div class="item-media">
+                                <img src="<?php echo base_url('asset'); ?>/img/358098218_18289104205139178_3454879020059817747_n.jpg" alt="&lt;mark&gt;Our&lt;/mark&gt; Workshop">
+                                <div class="media-links">
+                                    <a href="#" class="abs-link"></a>
+                                </div>
+                            </div>
+                            <div class="card-body box-shadow ls">
+                                <a href="#">
+                                    <h4 class="card-title fs-30">
+                                        <mark>Bespoke</mark>   Metal Services
+                                    </h4>
+                                </a>
+                                <p class="card-text fs-20">Custom metal craftsmanship</p>
+                            </div>
+                        </div>
+                       
+                    </div>
+                </div><!-- .col-* -->
+            </div>
+
+        </div>
+    </section>
+
+    <section class="overflow-visible  ls        s-pt-25 s-pb-55     s-pt-lg-65 s-pb-lg-95" id="steps" style="display:none">
+        <h6 class="d-none">steps</h6>
+        <div class="container">
+            <div class="row">
+
+
+                <div class="col-xs-12 col-12">
+                    <h4 class="special-heading text-center big">
+                        <span class="">
+                            From Our <mark>Blog </mark> </span>
+
+                    </h4>
+
+                    <p class="special-heading text-center ">
+                        <span class="fw-700 text-uppercase big-letter-spacing   with-line">
+                            Weldo Metal Fabrication </span>
+
+                    </p>
+
+
+                    <div class="fw-divider-space divider-40 divider-lg-50"></div>
+
+                    <div class="steps text-center  arrow-dashed item-steps ls ">
+                        <div class="step ">
+                            <div class="step-image mb-30">
+                                <span class="step-part">
+                                    <img src="https://webdesign-finder.com/weldo/wp-content/uploads/2020/03/shutterstock_1119952859-200x200.jpg" alt="step image">
+                                </span>
+                            </div>
+                            <h4 class="step-title ">
+                                Strategy </h4>
+                        </div>
+                        <div class="step ">
+                            <div class="step-image mb-30">
+                                <span class="step-part">
+                                    <img src="https://webdesign-finder.com/weldo/wp-content/uploads/2020/03/shutterstock_777279151-200x200.jpg" alt="step image">
+                                </span>
+                            </div>
+                            <h4 class="step-title ">
+                                Planning </h4>
+                        </div>
+                        <div class="step ">
+                            <div class="step-image mb-30">
+                                <span class="step-part">
+                                    <img src="https://webdesign-finder.com/weldo/wp-content/uploads/2020/03/shutterstock_1038791128-200x200.jpg" alt="step image">
+                                </span>
+                            </div>
+                            <h4 class="step-title ">
+                                Build </h4>
+                        </div>
+                    </div>
+
+
+
+
+
+                </div><!-- .col-* -->
+            </div>
+
+        </div>
+    </section>
+
+    <!-- <section class="ds bs c-gutter-0      s-pt-60 s-pb-10     s-pt-lg-100 s-pb-lg-30        s-parallax s-overlay" id="section-6be5dd5" style="background-image: url(&quot;https://webdesign-finder.com/weldo/wp-content/uploads/2020/03/service-bg.jpg&quot;); background-position: 50% 0px;display:none">
+        <h6 class="d-none">section-6be5dd5</h6>
+        <div class="container">
+            <div class="row justify-content-between">
+
+
+                <div class="col-xs-12 col-12">
+                    <h4 class="special-heading text-center big">
+                        <span class="">
+                            Our <mark>Services </mark> </span>
+
+                    </h4>
+
+                    <p class="special-heading text-center ">
+                        <span class="fw-700 text-uppercase big-letter-spacing   with-line">
+                            Weldo Metal Fabrication </span>
+
+                    </p>
+
+
+                    <div class="fw-divider-space divider-35 divider-lg-50"></div>
+                </div>
+
+
+                <div class="col-xs-12 col-12 col-lg-3 text-center text-lg-left">
+
+                    <div class="fw-divider-space " style="margin-top: -4px;"></div>
+                    <p>We are a highly skilled team with years of engineering and design experience. Our goal is to surpass your expectations ! AirForce Trained Veteran / Precision T.I.G.</p>
+                    <div class="fw-divider-space divider-20 divider-lg-45"></div>
+
+                    <a href="http://webdesign-finder.com/weldo/services/" target="_self" class="btn btn-maincolor btn-big btn-wide ">
+                        <span>See More</span>
+                    </a>
+                    <div class="fw-divider-space divider-45 divider-lg-0"></div>
+                </div>
+
+
+                <div class="col-xs-12 col-12 col-lg-7 text-center text-lg-left">
+
+                    <div class="isotope-wrapper isotope row masonry-layout c-mb-40 c-mb-lg-60 c-gutter-90 " style="position: relative; height: 306px;">
+                        <div class="isotope-item service-layout-1 col-lg-6 col-md-6 col-sm-12 col-xs-12 " style="position: absolute; left: 0%; top: 0px;">
+
+                            <div class="service-item vertical-item ">
+                                <div class="item-content">
+                                    <h4 class="step-part">
+                                        <a href="https://webdesign-finder.com/weldo/service/titanium-welding/">
+                                            <mark>Titanium</mark> Welding </a>
+                                    </h4>
+                                    <p>There are a few different processes that we use at JA</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="isotope-item service-layout-1 col-lg-6 col-md-6 col-sm-12 col-xs-12 " style="position: absolute; left: 49.9676%; top: 0px;">
+
+                            <div class="service-item vertical-item ">
+                                <div class="item-content">
+                                    <h4 class="step-part">
+                                        <a href="https://webdesign-finder.com/weldo/service/mobile-welding/">
+                                            <mark>Mobile</mark> Welding </a>
+                                    </h4>
+                                    <p>The right process can make all the difference</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="isotope-item service-layout-1 col-lg-6 col-md-6 col-sm-12 col-xs-12 " style="position: absolute; left: 0%; top: 153px;">
+
+                            <div class="service-item vertical-item ">
+                                <div class="item-content">
+                                    <h4 class="step-part">
+                                        <a href="https://webdesign-finder.com/weldo/service/stainless-steel-welding/">
+                                            <mark>Stainless Steel</mark> Welding </a>
+                                    </h4>
+                                    <p>We will work with you to figure out what you need</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="isotope-item service-layout-1 col-lg-6 col-md-6 col-sm-12 col-xs-12 " style="position: absolute; left: 49.9676%; top: 153px;">
+
+                            <div class="service-item vertical-item ">
+                                <div class="item-content">
+                                    <h4 class="step-part">
+                                        <a href="/service/structual-steel-welding/">
+                                            <mark>Structual Steel</mark> Welding </a>
+                                    </h4>
+                                    <p>Help you understand what we are doing, if it is something that concerns you</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </section> -->
+
+    <section class="ls c-gutter-0       s-pt-60 s-pb-60     s-pt-lg-100 s-pb-lg-100" id="section-07951d4">
+        <h6 class="d-none">section-07951d4</h6>
+        <div class="container">
+            <div class="row">
+
+
+                <div class="col-xs-12 col-12">
+                    <h4 class="special-heading text-center big">
+                        <span class="">
+                            Our <mark>Gallery </mark> </span>
+
+                    </h4>
+
+                    <p class="special-heading text-center ">
+                        <span class="fw-700 text-uppercase big-letter-spacing   with-line">
+                            Weldo Metal Fabrication </span>
+
+                    </p>
+
+
+                    <div class="fw-divider-space divider-40 divider-lg-50"></div>
+                </div><!-- .col-* -->
+
+
+                <div class="col-xs-12 col-12 col-lg-6">
+
+                    <article class="single-portfolio-item horizontal-item padding-small row h-100 text-center text-md-left ds ms triangle-right row-md-reverse  post-2822 fw-portfolio type-fw-portfolio status-publish has-post-thumbnail hentry fw-portfolio-category-cremations">
+                        <div class="col-12 col-md-6 order-2 order-md-1 align-md-center with-triangle">
+                            <div class="item-content">
+                                <h4 class="mb-18">
+                                    <a href="/project/tig-welding/">
+                                        <mark>Tig</mark> Welding </a>
+                                </h4>
+                                <div class="entry-content mb-0">
+                                    Providing full-service mobile welding to all of San Diego </div>
+                            </div>
+                        </div>
+                        <div class="col-12 col-md-6 order-1 order-md-2">
+                            <img width="1000" height="1000" src="https://webdesign-finder.com/weldo/wp-content/uploads/2020/03/shutterstock_131676980-1000x1000.jpg" class="attachment-weldo-square size-weldo-square wp-post-image" alt="" decoding="async" srcset="https://webdesign-finder.com/weldo/wp-content/uploads/2020/03/shutterstock_131676980-1000x1000.jpg 1000w, https://webdesign-finder.com/weldo/wp-content/uploads/2020/03/shutterstock_131676980-100x100.jpg 100w, https://webdesign-finder.com/weldo/wp-content/uploads/2020/03/shutterstock_131676980-700x700.jpg 700w" sizes="(max-width: 1000px) 100vw, 1000px">
+                            <div class="media-links">
+                                <a class="abs-link" href="/project/tig-welding/"></a>
+                            </div>
+                        </div>
+                    </article><!-- eof vertical-item -->
+                </div><!-- .col-* -->
+
+
+                <div class="col-xs-12 col-12 col-lg-6">
+
+                    <article class="single-portfolio-item horizontal-item padding-small row h-100 text-center text-md-left cs triangle-right  post-2821 fw-portfolio type-fw-portfolio status-publish has-post-thumbnail hentry fw-portfolio-category-pipe-welding">
+                        <div class="col-12 col-md-6 order-2 order-md-1 align-md-center with-triangle">
+                            <div class="item-content">
+                                <h4 class="mb-18">
+                                    <a href="/project/mig-welding/">
+                                        <mark>Mig</mark> Welding </a>
+                                </h4>
+                                <div class="entry-content mb-0">
+                                    We bring everything needed, including a generator to power </div>
+                            </div>
+                        </div>
+                        <div class="col-12 col-md-6 order-1 order-md-2">
+                            <img width="1000" height="1000" src="https://webdesign-finder.com/weldo/wp-content/uploads/2020/03/shutterstock_777279151-1-1000x1000.jpg" class="attachment-weldo-square size-weldo-square wp-post-image" alt="" decoding="async" srcset="https://webdesign-finder.com/weldo/wp-content/uploads/2020/03/shutterstock_777279151-1-1000x1000.jpg 1000w, https://webdesign-finder.com/weldo/wp-content/uploads/2020/03/shutterstock_777279151-1-100x100.jpg 100w, https://webdesign-finder.com/weldo/wp-content/uploads/2020/03/shutterstock_777279151-1-700x700.jpg 700w" sizes="(max-width: 1000px) 100vw, 1000px">
+                            <div class="media-links">
+                                <a class="abs-link" href="/project/mig-welding/"></a>
+                            </div>
+                        </div>
+                    </article><!-- eof vertical-item -->
+                </div><!-- .col-* -->
+
+
+                <div class="col-xs-12 col-12 col-lg-6">
+
+                    <article class="single-portfolio-item horizontal-item padding-small row h-100 text-center text-md-left ds ms row-reverse triangle-left  post-2820 fw-portfolio type-fw-portfolio status-publish has-post-thumbnail hentry fw-portfolio-category-structual-steel-welding">
+                        <div class="col-12 col-md-6 order-2 order-md-1 align-md-center with-triangle">
+                            <div class="item-content">
+                                <h4 class="mb-18">
+                                    <a href="/project/stick-welding/">
+                                        <mark>Stick</mark> Welding </a>
+                                </h4>
+                                <div class="entry-content mb-0">
+                                    We can help you with any on/off-site welding. Welding </div>
+                            </div>
+                        </div>
+                        <div class="col-12 col-md-6 order-1 order-md-2">
+                            <img width="1000" height="1000" src="https://webdesign-finder.com/weldo/wp-content/uploads/2019/06/shutterstock_408607621-1000x1000.jpg" class="attachment-weldo-square size-weldo-square wp-post-image" alt="" decoding="async" srcset="https://webdesign-finder.com/weldo/wp-content/uploads/2019/06/shutterstock_408607621-1000x1000.jpg 1000w, https://webdesign-finder.com/weldo/wp-content/uploads/2019/06/shutterstock_408607621-100x100.jpg 100w, https://webdesign-finder.com/weldo/wp-content/uploads/2019/06/shutterstock_408607621-700x700.jpg 700w" sizes="(max-width: 1000px) 100vw, 1000px">
+                            <div class="media-links">
+                                <a class="abs-link" href="/project/stick-welding/"></a>
+                            </div>
+                        </div>
+                    </article><!-- eof vertical-item -->
+                </div><!-- .col-* -->
+
+
+                <div class="col-xs-12 col-12 col-lg-6">
+
+                    <article class="single-portfolio-item with-video horizontal-item h-100  post-2867 fw-portfolio type-fw-portfolio status-publish has-post-thumbnail hentry fw-portfolio-category-stainless-steel-welding fw-portfolio-category-structual-steel-welding">
+                        <div class="cover-image s-overlay ds ms" style="background-image: url(&quot;https://webdesign-finder.com/weldo/wp-content/uploads/2020/03/shutterstock_208408690.jpg&quot;);">
+                            <img width="1920" height="1280" src="https://webdesign-finder.com/weldo/wp-content/uploads/2020/03/shutterstock_208408690.jpg" class="attachment- size- wp-post-image" alt="" decoding="async" srcset="https://webdesign-finder.com/weldo/wp-content/uploads/2020/03/shutterstock_208408690.jpg 1920w, https://webdesign-finder.com/weldo/wp-content/uploads/2020/03/shutterstock_208408690-300x200.jpg 300w, https://webdesign-finder.com/weldo/wp-content/uploads/2020/03/shutterstock_208408690-768x512.jpg 768w, https://webdesign-finder.com/weldo/wp-content/uploads/2020/03/shutterstock_208408690-1024x683.jpg 1024w, https://webdesign-finder.com/weldo/wp-content/uploads/2020/03/shutterstock_208408690-1536x1024.jpg 1536w, https://webdesign-finder.com/weldo/wp-content/uploads/2020/03/shutterstock_208408690-1170x780.jpg 1170w, https://webdesign-finder.com/weldo/wp-content/uploads/2020/03/shutterstock_208408690-600x400.jpg 600w" sizes="(max-width: 1920px) 100vw, 1920px"> <a href="" class="video-link photoswipe-link" data-iframe="https://www.youtube.com/embed/NnewIthuokI" data-index="1">
+                            </a>
+                        </div>
+                    </article><!-- eof vertical-item -->
+                </div><!-- .col-* -->
+            </div>
+
+        </div>
+    </section>
+
+    <section class="ds ms       s-pt-30 s-pb-55     s-pt-lg-70 s-pb-lg-95        s-parallax s-overlay" id="section-221153d" style="background-image: url(&quot;https://webdesign-finder.com/weldo/wp-content/uploads/2020/03/achieve-bg.jpg&quot;); background-position: 50% 0px;">
+        <h6 class="d-none">section-221153d</h6>
+        <div class="container">
+            <div class="row">
+
+
+                <div class="col-xs-12 col-12 col-lg-3">
+                    <div class="icon-box text-center  box-border-right">
+                        <div class="icon-styled mb-20 fs-20  color-main">
+                        </div>
+                        <h3 class="counter color-main fs-50" data-from="0" data-to="2005" data-speed="1000">
+                            0
+                        </h3>
+                        <p>Company Established</p>
+                    </div><!-- .icon-box -->
+
+                    <div class="fw-divider-space hidden-lg hidden-xl" style="margin-top: 15px;"></div>
+                </div><!-- .col-* -->
+
+
+                <div class="col-xs-12 col-12 col-lg-3">
+                    <div class="icon-box text-center  box-border-right">
+                        <div class="icon-styled mb-20 fs-20  color-main">
+                        </div>
+                        <h3 class="counter color-main fs-50" data-from="0" data-to="255" data-speed="1000">
+                            0
+                        </h3>
+                        <p>Projects Done</p>
+                    </div><!-- .icon-box -->
+
+                    <div class="fw-divider-space hidden-lg hidden-xl" style="margin-top: 15px;"></div>
+                </div><!-- .col-* -->
+
+
+                <div class="col-xs-12 col-12 col-lg-3">
+                    <div class="icon-box text-center  box-border-right">
+                        <div class="icon-styled mb-20 fs-20  color-main">
+                        </div>
+                        <h3 class="counter-wrap color-main fs-50">
+                            <span class="counter" data-from="0" data-to="20" data-speed="1000">0</span>
+                            <span class="counter-add">+</span>
+                        </h3>
+                        <p>Business Parthners</p>
+                    </div><!-- .icon-box -->
+
+                    <div class="fw-divider-space hidden-lg hidden-xl" style="margin-top: 15px;"></div>
+                </div><!-- .col-* -->
+
+
+                <div class="col-xs-12 col-12 col-lg-3">
+                    <div class="icon-box text-center">
+                        <div class="icon-styled mb-20 fs-20  color-main">
+                        </div>
+                        <h3 class="counter color-main fs-50" data-from="0" data-to="205" data-speed="1000">
+                            0
+                        </h3>
+                        <p>Happy Clients</p>
+                    </div><!-- .icon-box -->
+                </div><!-- .col-* -->
+            </div>
+
+        </div>
+    </section>
+
+    <section class="ls        s-pt-60 s-pb-0     s-pt-lg-100 s-pb-lg-40" id="section-265ea01">
+        <h6 class="d-none">section-265ea01</h6>
+        <div class="container">
+            <div class="row">
+
+
+                <div class="col-xs-12 col-12">
+                    <h4 class="special-heading text-center big">
+                        <span class="">
+                            From Our <mark>Blog </mark> </span>
+
+                    </h4>
+
+                    <p class="special-heading text-center ">
+                        <span class="fw-700 text-uppercase big-letter-spacing   with-line">
+                            weldo Metal Fabrication </span>
+
+                    </p>
+
+
+                    <div class="fw-divider-space divider-35 divider-lg-50"></div>
+
+                    <div class="row  c-gutter-30 c-mb-30 item-layout-tiled">
+                        <div class="col-lg-5">
+                            <article class="vertical-item item-post-tiled2 w-100 filter-magnesium-welding filter-mobile-welding filter-tiled post-289 post type-post status-publish format-standard has-post-thumbnail hentry category-magnesium-welding category-mobile-welding category-tiled tag-welding">
+                                <div class="item-media">
+                                    <img width="830" height="400" src="https://webdesign-finder.com/weldo/wp-content/uploads/2019/05/shutterstock_1038791128-830x400.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async">
+                                    <div class="media-links">
+                                        <a class="abs-link" href="/reality-tv-to-custom-wheelchairs-taking-metal-fabrication-for-a-ride/"></a>
+                                    </div>
+                                </div>
+                                <div class="item-content">
+                                    <div class="post-date mb-10"><i class="fs-14 fa fa-clock-o mr-2"></i><a href="/2019/05/31/" rel="bookmark"><time class="published entry-date" datetime="2019-05-31T12:44:03+00:00">May 31, 2019</time></a></div>
+                                    <h5 class="item-title mt-0">
+                                        <a href="/reality-tv-to-custom-wheelchairs-taking-metal-fabrication-for-a-ride/">
+                                            Reality TV to custom wheelchairs – Taking metal fabrication for a ride </a>
+                                    </h5>
+                                    <div class="entry-meta mb-2">
+                                        <span class="byline">
+                                            <span class="like-count">
+                                                <span data-id="289"><a href="" class="like_button like_active_button"><i class="fs-14 fw-900 fa fa-heart-o"></i></a></span><span class="votes_count votes_count_289"><span class="item-likes-count">3</span> <span class="item-likes-word">Likes</span></span> </span> <!-- eof .post-adds -->
+                                            <span class="comments-link"><i class="fs-14 ico ico-comments"></i><span class="screen-reader-text">0 comment</span><a href="/reality-tv-to-custom-wheelchairs-taking-metal-fabrication-for-a-ride/#respond">0 comment</a></span> </span>
+                                    </div><!-- .entry-meta -->
+
+                                    <a class="mt-15 mt-xl-40 btn btn-maincolor btn-small read-more" href="/reality-tv-to-custom-wheelchairs-taking-metal-fabrication-for-a-ride/"> Read More</a>
+                                </div>
+                            </article><!-- eof vertical-item -->
+
+                        </div>
+                        <div class="col-lg-7">
+                            <article class="side-item vertical-item row item-post-tiled w-100 filter-magnesium-welding filter-tiled post-288 post type-post status-publish format-standard has-post-thumbnail hentry category-magnesium-welding category-tiled tag-frame-welding">
+                                <div class="col-12 col-md-6">
+                                    <div class="item-media cover-image" style="background-image: url(&quot;https://webdesign-finder.com/weldo/wp-content/uploads/2019/05/shutterstock_1092189305-1170x780.jpg&quot;);">
+                                        <img width="1170" height="780" src="https://webdesign-finder.com/weldo/wp-content/uploads/2019/05/shutterstock_1092189305-1170x780.jpg" class="attachment-weldo-full-width size-weldo-full-width wp-post-image" alt="" decoding="async" srcset="https://webdesign-finder.com/weldo/wp-content/uploads/2019/05/shutterstock_1092189305-1170x780.jpg 1170w, https://webdesign-finder.com/weldo/wp-content/uploads/2019/05/shutterstock_1092189305-300x200.jpg 300w, https://webdesign-finder.com/weldo/wp-content/uploads/2019/05/shutterstock_1092189305-768x512.jpg 768w, https://webdesign-finder.com/weldo/wp-content/uploads/2019/05/shutterstock_1092189305-1024x683.jpg 1024w, https://webdesign-finder.com/weldo/wp-content/uploads/2019/05/shutterstock_1092189305-1536x1024.jpg 1536w, https://webdesign-finder.com/weldo/wp-content/uploads/2019/05/shutterstock_1092189305-600x400.jpg 600w, https://webdesign-finder.com/weldo/wp-content/uploads/2019/05/shutterstock_1092189305.jpg 1920w" sizes="(max-width: 1170px) 100vw, 1170px">
+                                        <div class="media-links">
+                                            <a class="abs-link" href="/how-welding-and-social-media-are-the-perfect-couple/"></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-12 col-md-6">
+                                    <div class="item-content">
+                                        <div class="post-date mb-10"><i class="fs-14 fa fa-clock-o mr-2"></i><a href="/2019/05/31/" rel="bookmark"><time class="published entry-date" datetime="2019-05-31T12:44:01+00:00">May 31, 2019</time></a></div>
+                                        <h5 class="item-title mt-0">
+                                            <a href="/how-welding-and-social-media-are-the-perfect-couple/">
+                                                How welding and social media are the perfect couple </a>
+                                        </h5>
+                                        <div class="entry-meta mb-2">
+                                            <span class="byline">
+                                                <span class="like-count">
+                                                    <span data-id="288"><a href="" class="like_button like_active_button"><i class="fs-14 fw-900 fa fa-heart-o"></i></a></span><span class="votes_count votes_count_288"><span class="item-likes-count">3</span> <span class="item-likes-word">Likes</span></span> </span> <!-- eof .post-adds -->
+                                                <span class="comments-link"><i class="fs-14 ico ico-comments"></i><span class="screen-reader-text">0 comment</span><a href="/how-welding-and-social-media-are-the-perfect-couple/#respond">0 comment</a></span> </span>
+                                        </div><!-- .entry-meta -->
+                                        <a class="mt-15 mt-xl-40 btn btn-maincolor btn-small read-more" href="/how-welding-and-social-media-are-the-perfect-couple/"> Read More</a>
+                                    </div>
+                                </div>
+                            </article><!-- eof vertical-item -->
+
+                            <article class="side-item vertical-item row item-post-tiled w-100 filter-tiled post-3130 post type-post status-publish format-standard has-post-thumbnail hentry category-tiled tag-mobile-welding tag-pipe-welding">
+                                <div class="col-12 col-md-6">
+                                    <div class="item-media cover-image" style="background-image: url(&quot;https://webdesign-finder.com/weldo/wp-content/uploads/2020/03/shutterstock_131676980-1170x780.jpg&quot;);">
+                                        <img width="1170" height="780" src="https://webdesign-finder.com/weldo/wp-content/uploads/2020/03/shutterstock_131676980-1170x780.jpg" class="attachment-weldo-full-width size-weldo-full-width wp-post-image" alt="" decoding="async" srcset="https://webdesign-finder.com/weldo/wp-content/uploads/2020/03/shutterstock_131676980-1170x780.jpg 1170w, https://webdesign-finder.com/weldo/wp-content/uploads/2020/03/shutterstock_131676980-300x200.jpg 300w, https://webdesign-finder.com/weldo/wp-content/uploads/2020/03/shutterstock_131676980-768x512.jpg 768w, https://webdesign-finder.com/weldo/wp-content/uploads/2020/03/shutterstock_131676980-1024x683.jpg 1024w, https://webdesign-finder.com/weldo/wp-content/uploads/2020/03/shutterstock_131676980-1536x1024.jpg 1536w, https://webdesign-finder.com/weldo/wp-content/uploads/2020/03/shutterstock_131676980-600x400.jpg 600w, https://webdesign-finder.com/weldo/wp-content/uploads/2020/03/shutterstock_131676980.jpg 1920w" sizes="(max-width: 1170px) 100vw, 1170px">
+                                        <div class="media-links">
+                                            <a class="abs-link" href="/custom-shock-mounts-brad-scheffler/"></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-12 col-md-6">
+                                    <div class="item-content">
+                                        <div class="post-date mb-10"><i class="fs-14 fa fa-clock-o mr-2"></i><a href="/2019/03/31/" rel="bookmark"><time class="published entry-date" datetime="2019-03-31T08:46:47+00:00">March 31, 2019</time></a></div>
+                                        <h5 class="item-title mt-0">
+                                            <a href="/custom-shock-mounts-brad-scheffler/">
+                                                Custom Shock Mounts Brad Scheffler </a>
+                                        </h5>
+                                        <div class="entry-meta mb-2">
+                                            <span class="byline">
+                                                <span class="like-count">
+                                                    <span data-id="3130"><a href="" class="like_button like_active_button"><i class="fs-14 fw-900 fa fa-heart-o"></i></a></span><span class="votes_count votes_count_3130"><span class="item-likes-count">3</span> <span class="item-likes-word">Likes</span></span> </span> <!-- eof .post-adds -->
+                                                <span class="comments-link"><i class="fs-14 ico ico-comments"></i><span class="screen-reader-text">0 comment</span><a href="/custom-shock-mounts-brad-scheffler/#respond">0 comment</a></span> </span>
+                                        </div><!-- .entry-meta -->
+                                        <a class="mt-15 mt-xl-40 btn btn-maincolor btn-small read-more" href="/custom-shock-mounts-brad-scheffler/"> Read More</a>
+                                    </div>
+                                </div>
+                            </article><!-- eof vertical-item -->
+
+                        </div>
+                    </div>
+                </div><!-- .col-* -->
+            </div>
+
+        </div>
+    </section>
+
+    <section class="ls ms c-gutter-45 c-mb-50      s-pt-60 s-pb-10     s-pt-lg-100 s-pb-lg-50" id="section-ef09f4f">
+        <h6 class="d-none">section-ef09f4f</h6>
+        <div class="container">
+            <div class="row">
+
+
+                <div class="col-xs-12 col-12 col-lg-4 p-lg-none">
+                    <div class="px-50 ">
+                        <div class="icon-box text-center">
+                            <a href="http://webdesign-finder.com/weldo/contacts/#page_map">
+                                <div class="icon-styled fs-50">
+                                    <i class="ico ico-building"></i>
+                                </div>
+                            </a>
+                            <h6 class="fs-30 text-capitalize ">
+                                <a href="http://webdesign-finder.com/weldo/contacts/#page_map">
+                                    <mark>Our</mark> Offices </a>
+                            </h6>
+                            <p>View our locations around the world and find contact details for your nearest office.</p>
+                            <a href="http://webdesign-finder.com/weldo/contacts/#page_map" class="btn btn-outline-maincolor btn-small  ">Locate the Nearest</a>
+                        </div><!-- .icon-box -->
+                    </div>
+                </div><!-- .col-* -->
+
+
+                <div class="col-xs-12 col-12 col-lg-4 p-lg-none">
+                    <div class="px-50 ">
+                        <div class="icon-box text-center">
+                            <a href="http://webdesign-finder.com/weldo/contacts/#contact-fields">
+                                <div class="icon-styled fs-50">
+                                    <i class="ico ico-paper-plane"></i>
+                                </div>
+                            </a>
+                            <h6 class="fs-30 text-capitalize ">
+                                <a href="http://webdesign-finder.com/weldo/contacts/#contact-fields">
+                                    <mark>Drop us a</mark> line </a>
+                            </h6>
+                            <p>You can contact us by filling in this form any time you need professional support.</p>
+                            <a href="http://webdesign-finder.com/weldo/contacts/#contact-fields" class="btn btn-outline-maincolor btn-small  ">Fill Our Form</a>
+                        </div><!-- .icon-box -->
+                    </div>
+                </div><!-- .col-* -->
+
+
+                <div class="col-xs-12 col-12 col-lg-4 p-lg-none">
+                    <div class="px-50 ">
+                        <div class="icon-box text-center">
+                            <a href="http://webdesign-finder.com/weldo/contacts/#page_map">
+                                <div class="icon-styled fs-50">
+                                    <i class="ico ico-gear"></i>
+                                </div>
+                            </a>
+                            <h6 class="fs-30 text-capitalize color-main">
+                                <a href="http://webdesign-finder.com/weldo/contacts/#page_map">
+                                    Support </a>
+                            </h6>
+                            <p>Learn more about us and find resources that will help you with all of our products</p>
+                            <a href="http://webdesign-finder.com/weldo/contacts/#page_map" class="btn btn-outline-maincolor btn-small  ">Open a Ticket</a>
+                        </div><!-- .icon-box -->
+                    </div>
+                </div><!-- .col-* -->
+            </div>
+
+        </div>
+    </section>
+
+    <section class="cs        s-pt-60 s-pb-60     s-pt-lg-100 s-pb-lg-95" id="section-db249f7">
+        <h6 class="d-none">section-db249f7</h6>
+        <div class="container">
+            <div class="row align-items-center">
+
+
+                <div class="col-xs-12 col-12 col-lg-6">
+                    <div class="media text-left lh-big">
+                        <div class="icon-styled fs-50  color-light">
+                            <i class="ico ico-message"></i>
+                        </div>
+                        <div class="media-body">
+                            <h6 class="fs-30 text-capitalize ">
+                                <mark>Keep up to date - Get</mark> e-mail updates
+                            </h6>
+                            <p>Stay tuned for the latest company news.</p>
+                        </div>
+                    </div><!-- .media -->
+                    <div class="fw-divider-space divider-20 divider-lg-0"></div>
+                </div><!-- .col-* -->
+
+
+                <div class="col-xs-12 col-12 col-lg-6">
+
+                    <div class="custom_shortcode mailchimp-with-text">
+                        <script>
+                            (function() {
+                                window.mc4wp = window.mc4wp || {
+                                    listeners: [],
+                                    forms: {
+                                        on: function(evt, cb) {
+                                            window.mc4wp.listeners.push({
+                                                event: evt,
+                                                callback: cb
+                                            });
+                                        }
+                                    }
+                                }
+                            })();
+                        </script><!-- Mailchimp for WordPress v4.9.7 - https://wordpress.org/plugins/mailchimp-for-wp/ -->
+                        <form id="mc4wp-form-1" class="mc4wp-form mc4wp-form-126" method="post" data-id="126" data-name="">
+                            <div class="mc4wp-form-fields">
+                                <div class="mailchimp-form position-relative">
+                                    <input type="email" name="EMAIL" class="form-control" placeholder="Your Email" required="">
+                                    <button class="search-submit btn btn-dark" type="submit" value="Sign Me Up!">Sign Me Up!</button>
+                                </div>
+                            </div><label style="display: none !important;">Leave this field empty if you're human: <input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off"></label><input type="hidden" name="_mc4wp_timestamp" value="1715970935"><input type="hidden" name="_mc4wp_form_id" value="126"><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1">
+                            <div class="mc4wp-response"></div>
+                        </form><!-- / Mailchimp for WordPress Plugin -->
+                    </div>
+                </div><!-- .col-* -->
+            </div>
+
+        </div>
+    </section>
+</div>
 
 <?php include('footer.php') ?>
