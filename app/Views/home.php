@@ -2964,7 +2964,7 @@
 
                     <p class="special-heading text-center ">
                         <span class="fw-700 text-uppercase big-letter-spacing   with-line">
-                            Weldo Metal Fabrication </span>
+                            V P Metal Fabrication </span>
 
                     </p>
 
@@ -3026,7 +3026,7 @@
 
                     <p class="special-heading text-center ">
                         <span class="fw-700 text-uppercase big-letter-spacing   with-line">
-                            Weldo Metal Fabrication </span>
+                            V P Metal Fabrication </span>
 
                     </p>
 
@@ -3121,7 +3121,7 @@
 
                     <p class="special-heading text-center ">
                         <span class="fw-700 text-uppercase big-letter-spacing   with-line">
-                            Weldo Metal Fabrication </span>
+                            V P Metal Fabrication </span>
 
                     </p>
 
@@ -3219,6 +3219,13 @@
             <div class="row">
 
 
+                <div class="col-12 text-center">
+                    <h3>Connect with our design team today for personalized, made-to-measure metalwork services tailored to your exact specifications.</h3>
+                </div>
+            </div>
+            <div class="row d-none">
+
+
                 <div class="col-xs-12 col-12 col-lg-3">
                     <div class="icon-box text-center  box-border-right">
                         <div class="icon-styled mb-20 fs-20  color-main">
@@ -3292,7 +3299,7 @@
 
                     <p class="special-heading text-center ">
                         <span class="fw-700 text-uppercase big-letter-spacing   with-line">
-                            weldo Metal Fabrication </span>
+                            V P Metal Fabrication </span>
 
                     </p>
 
